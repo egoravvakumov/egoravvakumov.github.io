@@ -1,5 +1,11 @@
 section#main {
 	background-color: green;
-	height: 500px;
+	height: 100vh;
 
+}
+h1 {
+	text-transform: uppercase;
+}
+.main_header {
+margin-top: 25%	
 }
