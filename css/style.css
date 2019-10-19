@@ -1,3 +1,6 @@
+body {
+	height: 3000px;
+}
 section#main {
 	background-color: green;
 	height: 100vh;
@@ -8,4 +11,12 @@ h1 {
 }
 .main_header {
 margin-top: 25%	
+}
+.box {
+	height: 300px;
+	border: 2px solid #a400ae
+}
+.box_in {
+	height: 50px;
+	border: 2px dashed green;
 }
