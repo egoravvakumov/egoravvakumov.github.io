@@ -1,8 +1,21 @@
+body {
+	box-sizing: border-box;
+}
+section#cap{
+	height: 60px;
+	width: 100%;
+	background-color: red;
+	display: inline-block;  
+	position: fixed;
+	margin-top: -60px;
+	opacity: 1;
 
-section#d {
-	height: 100vh;
-	background-color: pink;
-}	
-.main_header {
-	margin-top: 25%
+
+
+}
+section#text{
+	margin-top: 60px;
+
+
+display: block;
 }
